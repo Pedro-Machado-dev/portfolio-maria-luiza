@@ -1,25 +1,25 @@
-# Portfólio Maria Luiza
+# Maria Luiza Portfolio
 
-Portfólio profissional desenvolvido para apresentar a trajetória, experiências, formação acadêmica, cursos, habilidades e formas de contato de Maria Luiza De Pietro Lopes.
+Professional portfolio developed to present the background, experience, education, courses, skills, and contact information.
 
-O projeto foi criado com React, TypeScript e Vite, com foco em uma interface moderna, responsiva e adequada para apresentação profissional.
+The project was built with React, TypeScript, and Vite, focusing on a modern, responsive, and professional interface.
 
-## Visão Geral
+## Overview
 
-O portfólio conta com seções para:
+This portfolio includes the following sections:
 
-- Apresentação inicial
-- Sobre mim
-- Experiência profissional
-- Formação acadêmica
-- Cursos complementares
-- Habilidades e competências
-- Contato
-- Download do currículo em PDF
+- Hero section
+- About
+- Professional Experience
+- Education
+- Additional Courses
+- Skills and Competencies
+- Contact
+- CV download
 
-Também possui suporte para alternância entre português e inglês.
+The project also includes language switching support between Portuguese and English.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - React
 - TypeScript
@@ -27,7 +27,7 @@ Também possui suporte para alternância entre português e inglês.
 - CSS
 - React Icons
 
-## Estrutura do Projeto
+## Project Structure
 
 ```text
 src/
